@@ -1,0 +1,17 @@
+{
+  "name": "itstudent-management-system",
+  "version": "2.0.1",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"iqra tariq\"",
+  "license": "ISC",
+  "description": "CLI student management system",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.20",
+    "itstudent-management-system": "^2.0.1"
+  }
+}
